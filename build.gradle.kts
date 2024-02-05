@@ -6,7 +6,8 @@ group = "kr.doka.lab"
 version = "1.0-SNAPSHOT"
 
 repositories {
-    mavenCentral()
+    //mavenCentral()
+    //maven("https://jitpack.io")
 }
 
 dependencies {
